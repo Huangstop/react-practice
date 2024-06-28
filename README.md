@@ -1,7 +1,6 @@
 # react-practice
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/Huangstop/react-practice.git
-# git push -u origin main
+git init<br>
+git commit -m "comment"<br>
+git branch -M main<br>
+git remote add origin branchName<br>
+git push -u origin main<br>
